@@ -10,3 +10,7 @@
 2. origin	https://github.com/schacon/ticgit (fetch)
 3. origin	https://github.com/schacon/ticgit (push)
  
+Для того, чтобы добавить удалённый репозиторий и присвоить ему имя (shortname), просто выполните команду git remote add <shortname> <url>:
+1. git remote
+origin
+2. git remote add pb https://github.com/paulboone/ticgit
