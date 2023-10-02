@@ -14,7 +14,7 @@
 1. Создаём в GitHub "New repisitory"
 2. На компьютере создаём папку и файл в этой папке. Инициируем локальный репозиторий.
 3. В терминале в VScode добавляем ссылку на репозиторий на GitHub:   
-*git remote add origin https://github.com/ASVolos/Reposititori_Sem3.git   
+*git remote add origin https://github.com/ASVolos/Reposititory_Sem3.git   
 git branch -M master  
 git push -u origin master*
 4. **git push** - команда отправляющая файл в удаленный репозиторий;
