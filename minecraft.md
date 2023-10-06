@@ -9,3 +9,5 @@
 комбинации команд
 
 и так далее...
+
+EVERYTHING SHOULD BE OK
